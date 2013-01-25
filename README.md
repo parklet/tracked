@@ -132,4 +132,4 @@ peopleSet(user.attributes);
 ```
 
 Inspired by:
-Python's function decorator syntax and this (function combinators library)[https://github.com/raganwald/method-combinators] by (Reg Braithwaite)[https://github.com/raganwald/homoiconic/blob/master/homoiconic.markdown].
+Python's function decorator syntax and this [function combinators library](https://github.com/raganwald/method-combinators) by [Reg Braithwaite](https://github.com/raganwald/homoiconic/blob/master/homoiconic.markdown).
