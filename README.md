@@ -130,3 +130,6 @@ This is probably most useful when you are pulling attributes off of a model and 
 ```javascript
 peopleSet(user.attributes);
 ```
+
+Inspired by:
+Python's function decorator syntax and this (function combinators library)[https://github.com/raganwald/method-combinators] by (Reg Braithwaite)[https://github.com/raganwald/homoiconic/blob/master/homoiconic.markdown].

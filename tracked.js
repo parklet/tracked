@@ -4,7 +4,6 @@
 // Distributed Under MIT License
 
 (function (undefined) {
-  // TODO - reference source. Got this function from a excellent decorator library. Can't find it at the moment though.
   var after = function (decoration) {
     return function (base) {
       return function () {
